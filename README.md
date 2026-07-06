@@ -1,4 +1,6 @@
-# Mirror Life Rehearsal
+# NVIDIA
+
+Redesign based on billbill-world.
 
 Local React + Vite build for the Mirror Life Rehearsal front-end prototype.
 
