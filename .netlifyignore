@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.git/
+.playwright-cli/
+output/
+.DS_Store
+public/webgl/
+public/effects/
+public/assets/videos/entry-home-background.mp4
+public/assets/videos/entry-home-background-poster.jpg
+public/assets/videos/flow-collection-background.mp4
+public/assets/videos/flow-collection-background-poster.jpg
+public/assets/videos/space-crystal-background.mp4
